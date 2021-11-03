@@ -1,0 +1,2 @@
+class UserTimeZone < ApplicationRecord
+end
